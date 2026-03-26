@@ -18,6 +18,7 @@ Veritabanı ve Sunucu: SQL Server, MySQL, Ubuntu Server (CLI/Terminal) Yönetimi
 ### Coderspace - Yazılım ve Teknoloji Okulu
 **Tarih:** 25 Şubat 2025 - 20 Mart 2025
 **Sertifika ID:** `e045ef76-36d7-40d1-b225-0dac75009607`
+**Sertifika Link:** https://coderspace.io/sertifikalar/e045ef76-36d7-40d1-b225-0dac75009607
 
 **Eğitim İçeriği:** Akbank, Garanti BBVA, Softtech ve İş Bankası gibi 10 farklı teknoloji şirketinin oturumlarıyla düzenlenen 4 haftalık teknik gelişim programı.
 
