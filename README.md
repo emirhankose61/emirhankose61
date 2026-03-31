@@ -9,7 +9,7 @@ Programlama Dilleri: C#, JavaScript, PHP
 
 Frameworkler ve Teknolojiler: Flutter, WinForms (.NET), Web Teknolojileri
 
-Veritabanı ve Sunucu: SQL Server, MySQL, Ubuntu Server (CLI/Terminal) Yönetimi
+Veritabanı ve Sunucu: SQL Server,PhpMyadmin, MySQL, Ubuntu Server (CLI/Terminal) Yönetimi
 
 ---
 
