@@ -5,7 +5,7 @@ Henüz başlardayım öğrenim aşamasındayım ufak tefek denemeler ve ödevler
 
 ### 🛠️ Kullandığım Teknolojiler ve Diller
 
-Programlama Dilleri: C#, JavaScript, PHP
+Programlama Dilleri: C#, JavaScript
 
 Frameworkler ve Teknolojiler: Flutter, WinForms (.NET), Web Teknolojileri
 
