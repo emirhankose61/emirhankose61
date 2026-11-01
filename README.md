@@ -1,7 +1,7 @@
 ## Merhabalar 👋
 
 Ben Emirhan. Yazılım geliştirme yolculuğumda modern teknolojileri öğrenmeye ve projeler üretmeye odaklanıyorum.
-Henüz öğrenciyim öğrenim aşamasındayım ufak tefek denemeler ve ödevler ile kendimi geliştiriyorum.
+Henüz başlardayım öğrenim aşamasındayım ufak tefek denemeler ve ödevler ile kendimi geliştiriyorum.
 
 ### 🛠️ Kullandığım Teknolojiler ve Diller
 
